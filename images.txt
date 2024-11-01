@@ -1,6 +1,6 @@
 nginx
-mysql5.7
-mysql8.0
+mysql:5.7
+mysql:8.0
 redis
 minio/minio
 nacos/nacos-server
