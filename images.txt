@@ -1,7 +1,5 @@
 nginx
 mysql:5.7
-mysql:8.0
 redis
-minio/minio：RELEASE.2023-3-20T20-16-18Z
 nacos/nacos-server
 
