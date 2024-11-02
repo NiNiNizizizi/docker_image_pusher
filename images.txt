@@ -2,4 +2,4 @@ nginx
 mysql:5.7
 redis
 nacos/nacos-server
-
+openjdk:21
