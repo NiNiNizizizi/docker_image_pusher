@@ -1,9 +1,1 @@
-nginx
-mysql:5.7
-redis
-nacos/nacos-server
-openjdk:21
-openjdk:17
-openjdk:8
-uifd/ui-for-docker
 keepalived
