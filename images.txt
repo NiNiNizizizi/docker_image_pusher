@@ -6,4 +6,4 @@ openjdk:21
 openjdk:17
 openjdk:8
 uifd/ui-for-docker
-image_name:tag
+keepalived
