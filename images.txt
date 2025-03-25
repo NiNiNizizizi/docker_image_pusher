@@ -1,2 +1,1 @@
-Soulter/AstrBot
 koishijs/koishi
